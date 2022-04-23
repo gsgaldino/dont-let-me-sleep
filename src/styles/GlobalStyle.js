@@ -13,6 +13,10 @@ const GlobalStyle = createGlobalStyle`
     --spacing-big: 24px;
 
     --max-width: 1200px;
+    --font-family:  'Montserrat Alternates', sans-serif;
+
+    --blue: #386FA4;
+    --white: #E8E9EB;
   }
 `;
 
